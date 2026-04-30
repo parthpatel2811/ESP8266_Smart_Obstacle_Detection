@@ -34,7 +34,7 @@ Data is sent to ThingSpeak cloud where:
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram]("Circuit_Diagram.png")
+![Circuit Diagram](Circuit_Diagram.png)
 
 ## 🎥 Demo Video
 [Add your YouTube link here]
