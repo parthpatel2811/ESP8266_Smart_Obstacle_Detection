@@ -34,7 +34,7 @@ Data is sent to ThingSpeak cloud where:
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](images/Circuit_Diagram.png)
+![Circuit Diagram]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Circuit_Diagram.png")
 
 ## 🎥 Demo Video
 [Add your YouTube link here]
