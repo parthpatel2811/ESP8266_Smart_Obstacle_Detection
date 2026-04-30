@@ -32,6 +32,10 @@ Data is sent to ThingSpeak cloud where:
 - Field1 → Distance graph
 - Field2 → Obstacle detection status
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](images/Circuit_Diagram.png)
+
 ## 🎥 Demo Video
 [Add your YouTube link here]
 
