@@ -52,7 +52,7 @@ Data is sent to ThingSpeak cloud where:
 7. Monitor output on Serial Monitor  
 
 ## 📂 Code
-Arduino code is included in this repository. Open Thingspeak_
+Arduino code is included in this repository. Open Thingspeak_distance_ESP8266.ino file
 
 ## 📌 Future Improvements
 - Real-time mobile notifications 
