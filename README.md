@@ -37,10 +37,22 @@ Data is sent to ThingSpeak cloud where:
 ![Circuit Diagram](Circuit_Diagram.png)
 
 ## 🎥 Demo Video
-[[Working Project Video](https://youtu.be/xKgFostUFXQ)]
+[▶️ Watch Demo Video](https://youtu.be/xKgFostUFXQ)
+
+## ⚙️ Setup Instructions
+
+1. Connect components as per circuit diagram  
+2. Install ESP8266 board in Arduino IDE
+   Step-1: Open Arduino IDE
+   Step-2: File > Preferences > Additional boards manager URLs(Paste below link here) 
+   [ESP8266 board link](http://arduino.esp8266.com/stable/package_esp8266com_index.json))  
+4. Add required libraries (ESP8266WiFi, ThingSpeak)  
+5. Update WiFi credentials in code  
+6. Upload code to ESP8266  
+7. Monitor output on Serial Monitor  
 
 ## 📂 Code
-Arduino code is included in this repository.
+Arduino code is included in this repository. 
 
 ## 📌 Future Improvements
 - Real-time mobile notifications 
