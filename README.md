@@ -37,7 +37,7 @@ Data is sent to ThingSpeak cloud where:
 ![Circuit Diagram](Circuit_Diagram.png)
 
 ## 🎥 Demo Video
-[Add your YouTube link here]
+[[Add your YouTube link here](https://youtu.be/xKgFostUFXQ)]
 
 ## 📂 Code
 Arduino code is included in this repository.
