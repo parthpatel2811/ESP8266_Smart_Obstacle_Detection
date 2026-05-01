@@ -11,8 +11,8 @@ This project is an IoT-based Smart Obstacle Detection System built using ESP8266
 
 ## 🧠 Working Principle
 The ultrasonic sensor measures distance by sending sound waves and calculating the time taken for the echo to return. The ESP8266 processes this data:
-- If distance ≤ threshold → Obstacle detected (Alert ON)
-- If distance > threshold → Safe condition
+- If distance ≤ threshold (10 cm) → Obstacle detected (Alert ON)
+- If distance > threshold (10 cm) → Safe condition
 
 The system sends:
 - Distance → Field1
